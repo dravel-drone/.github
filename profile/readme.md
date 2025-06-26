@@ -60,35 +60,36 @@
 
 #### 📝 사용된 기술 및 소프트웨어
 
-프레임워크 및 라이브러리  
+프레임워크 및 라이브러리<br>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kakao%20Map-FFCD00?style=flat-square&logo=Kakao&logoColor=black"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
-API & 데이터  
+API & 데이터<br>
 <img src="https://img.shields.io/badge/한국관광공사%20TourAPI-0080FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/국토교통부%20항공정보도-00B8A9?style=flat-square"/>
 <img src="https://img.shields.io/badge/기상청%20단기예보-92B6F4?style=flat-square"/>
 
-클라우드/배포/DB  
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+클라우드/배포/DB<br>
+<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cafe24-0054A6?style=flat-square"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 
-테스트/협업  
+
+테스트/협업<br>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
 
-프로그래밍 언어  
+
+프로그래밍 언어<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white"/>
 
 #### 🛠 Project Architecture
 
