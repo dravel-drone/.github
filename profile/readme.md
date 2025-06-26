@@ -88,34 +88,7 @@ dravel
 
 ## 프로젝트 구조도
 
-아래 다이어그램은 Dravel의 전체 서비스와 데이터 흐름 구조를 간략하게 나타냅니다.
 
-```mermaid
-graph TD
-  subgraph Mobile App
-    A[dravel-mobile-flutter]
-  end
-  subgraph Backend
-    B[dravel-backend]
-    C[dravel-airspace-detector]
-    D[flutter-kakaomap-plugin]
-  end
-  subgraph Public Data
-    E[한국관광공사 TourAPI]
-    F[국토교통부 항공정보도]
-    G[기상청 단기예보]
-  end
-
-  A -- API 요청 --> B
-  B -- 공역 검증 --> C
-  B -- 지도 연동 --> D
-  B -- 외부 데이터 요청 --> E
-  B -- 외부 데이터 요청 --> F
-  B -- 외부 데이터 요청 --> G
-  A -- 지도 렌더링/상호작용 --> D
-```
-
----
 
 ## 기여 및 오픈소스 라이선스
 
