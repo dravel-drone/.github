@@ -100,8 +100,9 @@ API & 데이터<br>
 
 #### 🛠 Project Architecture
 
-(임시)
-![기술스택초안](https://github.com/user-attachments/assets/d6cecdab-9fe5-41dc-bdf4-1a97e74a0724)
+![스택](https://github.com/user-attachments/assets/cb509fef-c656-43ec-9bae-06efc4b7259b)
+<!--<img width="2874" height="2223" alt="diagram-dravel drawio (1)" src="https://github.com/user-attachments/assets/cb509fef-c656-43ec-9bae-06efc4b7259b" />-->
+
 
 
 #### 📜 API 및 배포 도메인
