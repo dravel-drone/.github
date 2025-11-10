@@ -105,7 +105,3 @@ API & 데이터<br>
 
 
 
-#### 📜 API 및 배포 도메인
-- Mobile App: https://play.google.com/store/apps/details?id=com.k1a2.dravel&hl=ko
-- Backend(FastAPI): https://dravel-backend.example.com/docs
-
