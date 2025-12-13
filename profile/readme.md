@@ -29,7 +29,7 @@
 ### 👨‍👩‍👧‍👦 Our Team
 | 이다민 | 정우석 | 김준철 |
 |:------:|:------:|:------:|
-| BE/Python | BE/Python | FE/Flutter |
+| BE/Python | BE/Python | Fullstack |
 
 ### 📁 서비스 환경
 - Cross-platform Mobile App (Flutter)
