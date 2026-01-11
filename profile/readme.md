@@ -79,8 +79,8 @@ API & 데이터<br>
 
 클라우드/배포/DB<br>
 <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
-<!-- <img src="https://img.shields.io/badge/Cafe24-0054A6?style=flat-square"/> -->
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Cafe24-0054A6?style=flat-square"/> -->
 
 
 테스트/협업<br>
